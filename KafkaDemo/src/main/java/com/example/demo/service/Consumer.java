@@ -9,6 +9,7 @@ public class Consumer {
 	public void listenToTopic(String recievedMsg)
 	{
 	System.out.println("recieved message"+ recievedMsg);
+	System.out.println("user3");
 	}
 
 }
