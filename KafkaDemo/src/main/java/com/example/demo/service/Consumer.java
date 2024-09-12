@@ -10,6 +10,7 @@ public class Consumer {
 	{
 	System.out.println("recieved message"+ recievedMsg);
 	System.out.println("user3");
+	System.out.println("new meesage for kafka");
 	}
 
 }
