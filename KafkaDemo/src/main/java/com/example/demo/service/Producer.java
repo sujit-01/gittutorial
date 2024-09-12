@@ -12,6 +12,7 @@ public class Producer {
 	{
 		 kafkaTemplate.send("sujit_Topic", message);
 		 System.out.println("user3");
+		 System.out.println("sujit");
 	}
 
 }
